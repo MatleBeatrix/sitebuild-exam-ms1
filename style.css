@@ -29,3 +29,52 @@ button, input, textarea, select {
     -webkit-appearance: none !important;
     border-radius: 0;
 }
+
+section {
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+}
+
+#section1 {
+    background-color: #39EEDA;
+}
+
+#section2 {
+    background-color: #75FB31;
+}
+
+
+
+#button1 {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    top:50%;
+    left: 50%;
+    
+    transform: translate(-50%, -50%);
+    background-color: #ee394d;
+}
+
+#button2 {
+    position: absolute;
+    width: 200px;
+    height: 60px;
+    bottom: 40px;
+    right: 40px;
+
+    background-color: #b731fb;
+}
+
+#button3 {
+    position: absolute;
+    width: 200px;
+    height: 60px;
+    bottom: 40px;
+    left: 50%;
+
+    transform: translate(-50%, -50%);
+    background-color: #F9F629;
+}
