@@ -37,11 +37,11 @@ section {
 }
 
 #section1 {
-    background-color: #39EEDA;
+    background-color: #F9D423;
 }
 
 #section2 {
-    background-color: #75FB31;
+    background-color:  #6C5B7B;
 }
 
 
@@ -55,7 +55,7 @@ section {
     left: 50%;
     
     transform: translate(-50%, -50%);
-    background-color: #ee394d;
+    background-color: #F05053;
 }
 
 #button2 {
@@ -65,7 +65,7 @@ section {
     bottom: 40px;
     right: 40px;
 
-    background-color: #b731fb;
+    background-color: #F6903D;
 }
 
 #button3 {
@@ -76,5 +76,5 @@ section {
     left: 50%;
 
     transform: translate(-50%, -50%);
-    background-color: #F9F629;
+    background-color: #C06C84;
 }
